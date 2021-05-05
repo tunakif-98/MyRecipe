@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyRecipe</string>
+    <string name="myRecipe">MyRecipe</string>
+    <string name="app_logo">App logo.</string>
+    <string name="get_started">Get started</string>
+    <string name="background_image">Background image.</string>
+    <string name="categories">Categories</string>
+    <string name="category_name">Category name</string>
+    <string name="add_recipe">Add recipe</string>
+    <string name="dishes">Dishes</string>
+    <string name="dish_image">Dish image.</string>
+    <string name="dish_name">Dish name</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="instructions">Instructions</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="image_url">Image URL</string>
+    <string name="category">Category</string>
+</resources>

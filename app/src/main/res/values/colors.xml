@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bunting">#121149</color>
+    <color name="astronaut">#273b7a</color>
+    <color name="calypso">#386895</color>
+    <color name="spray">#71e2ef</color>
+    <color name="scooter">#38c6d9</color>
+    <color name="orange">#ff5419</color>
+    <color name="iron">#d0d1d3</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="hintTextColor">#787878</color>
+</resources>

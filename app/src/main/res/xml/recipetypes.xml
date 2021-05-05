@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <recipetype id="1">Beef
+    </recipetype>
+    <recipetype id="2">Chicken
+    </recipetype>
+    <recipetype id="3">Dessert
+    </recipetype>
+</resources>
